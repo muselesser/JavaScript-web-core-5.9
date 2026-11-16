@@ -1,5 +1,5 @@
 body {
-    font-family: 'Barlow', sans-serif;
+    font-family: url(Barlow.zip);
     margin: 0;
     padding: 50px;  
     background-color: #eff6ff;
